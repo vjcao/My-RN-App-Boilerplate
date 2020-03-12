@@ -1,1 +1,1 @@
-# My-RN-App_Boilerplate
+# My-RN-App-Boilerplate
